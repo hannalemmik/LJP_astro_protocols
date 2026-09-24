@@ -49,22 +49,21 @@ Autoclave a few litres of water. Chill the 0.1 M CaCl₂ and 0.1 M CaCl₂ + 15%
    *Check which form of CaCl₂ you have: 55 g of the dihydrate in 500 ml gives only ~0.75 M.*
 2. Filter-sterilise with a 0.22 µm filter under the cabinet. Do not autoclave. Store cold.
    *Filtering alone is preferred: autoclaving can cause CaCO₃ or CaSO₄ precipitates with sulfate-containing water.*
-3. Prepare the 0.1 M CaCl₂ washing solution. Filter-sterilise under the cabinet and store at 4 °C.
+3. Prepare the 0.1 M CaCl₂ washing solution (1:10 dilution of the stock). Filter-sterilise under the cabinet and store at 4 °C.
 4. Prepare the 0.1 M CaCl₂ + 15% glycerol solution. Filter-sterilise under the cabinet and store at 4 °C.
    *Glycerol is viscous; measuring it by weight is more accurate: 30 ml ≈ 37.8 g.*
 5. Under the cabinet, label about 40 sterile 1.5 ml tubes for the aliquots.
 
 ### B. Preculture (evening before)
 
-1. Clean the cabinet with 70% ethanol and turn on the airflow. Open sterile LB, tubes and loops only inside the cabinet, keep lids off as briefly as possible, and never touch the open end of a tube or the tip of a loop.
-2. Pipette 1 ml sterile LB into a sterile 14 ml round-bottom culture tube with a dual-position snap cap.
-   *No antibiotic unless the strain carries a resistance marker.*
-3. Take the glycerol stock from −80 °C and keep it on dry ice (or in a pre-chilled cryo block). Do not let it thaw.
-   *Freeze–thaw cycles reduce the viability of the stock.*
-4. With a sterile disposable 10 µl (blue) inoculation loop, scrape a little frozen material from the surface of the stock. Close the stock immediately and return it to −80 °C.
-5. Swirl the loop in the LB, then discard the loop.
-6. Close the snap cap on the first click (loose/vented position) so air can get in.
-7. Label (strain, date, initials) and grow overnight (~16 h) at 37 °C with shaking (~200–250 rpm).
+1. **Work sterile.** Clean the cabinet surface with 70% ethanol, turn on the airflow, and open sterile LB, tubes and loops only inside the cabinet. Keep lids off for as short a time as possible and never touch the open end of a tube or the tip of a loop.
+2. **Prepare the tube.** Pipette 1 ml sterile LB into a sterile 14 ml round-bottom culture tube with a dual-position snap cap (often called a Falcon culture tube or "snap-cap tube").
+   *Don't add antibiotic unless your strain carries a resistance marker; untransformed cells for competent-cell prep usually don't.*
+3. **Get the glycerol stock without letting it thaw.** Take the cryotube from −80 °C and carry it on dry ice (or in a pre-chilled cryo block). Work quickly and put it back straight away.
+   *Freeze–thaw cycles kill cells and reduce the stock's viability.*
+4. **Inoculate with the blue loop.** Use a sterile disposable 10 µl inoculation loop (the blue one). Open the stock in the cabinet, scrape a little frozen material off the surface (you don't need to dig deep), close the stock immediately and return it to −80 °C. Swirl the loop in the LB, then discard it.
+5. **Close the cap on the first click (loose/vented).** The snap cap has two positions: pushed down to the first click it stays vented so air gets in for growth; pushed fully down it seals tight. Use the loose position for shaking cultures.
+6. **Grow overnight** (about 16 h) at 37 °C with shaking (~200–250 rpm). Label the tube with strain, date and your initials.
    *A turbid culture the next morning means it grew. If it is clear, repeat with a slightly larger scrape.*
 
 ### C. Growth to mid-log phase
