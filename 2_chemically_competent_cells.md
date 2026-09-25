@@ -85,14 +85,24 @@ Autoclave a few litres of water. Chill the 0.1 M CaCl₂ and 0.1 M CaCl₂ + 15%
 
 ### E. Harvesting and CaCl₂ treatment
 
+> **How to resuspend a pellet.** Once cells are in CaCl₂ they are fragile, so never vortex them.
+>
+> 1. Pour off the supernatant in one smooth motion, keeping the pellet at the bottom. Hold the tube upside down briefly on a paper towel to drain the last drops.
+> 2. Add a small volume first: about 1–2 ml of the ice-cold solution, not the full volume. A pellet breaks up much more easily in a little liquid.
+> 3. Loosen the pellet by swirling or gently flicking the tube until it lifts off the wall, **or** by pipetting slowly up and down with a P1000 (or 5 ml serological pipette), aiming the stream at the pellet. Only draw into the tip, never up to the filter, and don't make bubbles.
+> 4. Hold the tube up to the light: the suspension should look uniformly cloudy, with no clumps and nothing stuck to the wall.
+> 5. Top up with the rest of the cold solution, invert gently a few times, and return the tube to ice.
+>
+> For the final 2 ml resuspension, add the whole 2 ml at once and pipette slowly with a P1000. Keep tubes on ice between steps and work quickly.
+
 1. Divide the culture into 2 × 40 ml in the pre-chilled Falcon tubes.
 2. Centrifuge for 10 min at 4000 rpm, 4 °C.
-3. Discard the supernatant and gently resuspend each pellet in 20 ml ice-cold 0.1 M CaCl₂.
+3. Discard the supernatant and gently resuspend each pellet in 20 ml ice-cold 0.1 M CaCl₂ (see *How to resuspend a pellet* above).
    *Avoid drawing the cells up into the pipette filter.*
 4. Incubate for 20 min at 4 °C (on ice).
 5. During the incubation, pre-chill the labelled sterile 1.5 ml tubes at −80 °C.
 6. Centrifuge for 10 min at 4000 rpm, 4 °C.
-7. Discard the supernatant and gently resuspend each pellet in 2 ml ice-cold 0.1 M CaCl₂ + 15% glycerol.
+7. Discard the supernatant and gently resuspend each pellet in 2 ml ice-cold 0.1 M CaCl₂ + 15% glycerol (see *How to resuspend a pellet* above).
 8. Aliquot 100 µl into the pre-chilled tubes.
    *The 4 ml total gives about 40 aliquots.*
 9. Store immediately at −80 °C.
